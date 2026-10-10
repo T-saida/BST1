@@ -1,4 +1,3 @@
-#. Hash Table Performance Analysis
 
 ## 1. Experimental Discussion
 
